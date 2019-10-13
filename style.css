@@ -1,0 +1,26 @@
+dif {
+
+}
+    /* Selektor für id's */
+li {
+    font-weight: bold;
+    color:white;
+}
+
+#fotos {
+    color: pink;
+}
+#profil {
+ color: violet;
+
+#chronik {
+color: salmon;
+}
+}
+.boo {
+    border: 10px pink solid;
+}
+
+div.boo {
+    color: green;
+}
